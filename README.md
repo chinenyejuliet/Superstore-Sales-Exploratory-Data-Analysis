@@ -16,7 +16,7 @@ Using Power BI, this project transforms raw sales data into interactive dashboar
 ## Dataset source and Description
 
 ### Sources:
-Superstore_data.csv
+Superstore_data.xlsx
 
 ### Data Description:
 
