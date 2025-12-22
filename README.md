@@ -95,6 +95,8 @@ The following EDA techniques were applied to uncover patterns:
 - Comparative analysis across regions, categories, and sales teams
 - Discount impact analysis to assess profit loss
   
+***
+  
 ## Key Performance Indicators (KPIs) 
 
 - Total Profit
@@ -109,10 +111,34 @@ The following EDA techniques were applied to uncover patterns:
 - Churn Rate
 - Total Orders
 
+***
+
+## Dashboard Overview
+
+The dashboard includes the following key components:
+
+- Revenue and Profit Summary Cards
+- Revenue and Profit Trend Visuals 
+- Revenue and Profit Distribution Charts segmented by region, product category, sub-category and customer segment
+- Sales Team Performance Analysis
+- Discount Impact and Profit Loss Analysis
+- Order and Customer Performance Insights
+- Time Series and Daily Trend Insights
+  
+
+![superstore powerbi project fin-1_page-0001](https://github.com/user-attachments/assets/6b688210-4eca-4145-97a0-428cd4e048c9)
+
+***
+
+![superstore powerbi project fin-2_page-0001](https://github.com/user-attachments/assets/9f461a43-88c8-4c63-b0fd-4741cf349a0b)
+
+
+***
+
 ## Data Analysis and Insights
 
 - Revenue and Profit Analysis:
-  - Over the entire period under review, the Superstore achieved $2.30M in cumulative revenue
+  - Over the entire period under review, the Superstore achieved $2.29M in cumulative revenue
   - Technology emerged as the category contributing the highest revenue and profit.
   - The Phones sub-category generated the maximum revenue and profit among all sub-categories.
 
@@ -127,10 +153,16 @@ The following EDA techniques were applied to uncover patterns:
 - Sales Trend Analysis:
   - Yearly Trend: Revenue experienced a temporary decline between 2014 and 2015, followed by consistent growth through 2017, indicating a strong long-term upward trend.
   - Monthly Trend: Revenue fluctuated month-to-month, with peaks observed in March, September and November, while lower values were recorded in February, April and July.
+  - Orders were highest on Mondays and Fridays, with a noticeable drop on Wednesdays, indicating consistent midweek demand reduction.
+
+- Discount Impact Analysis:
+ - The analysis revealed that 70% and 80% discount levels resulted in the highest profit losses, indicating that excessive discounting significantly erodes profit margins.
 
 - Sales Team Performance:
     - The Charlie team recorded the highest sales revenue.
     - The Alfa team recorded the lowest sales revenue, indicating the need for performance review or additional support.
+
+***
 
 ## Findings and Interpretation
 
@@ -139,16 +171,19 @@ The following EDA techniques were applied to uncover patterns:
 - Strong performance in the West region can be leveraged as a benchmark for other regions.
 - Consumer customers are the most valuable segment and should be prioritized in sales strategies.
 
+***
+
 ## Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 - Increase marketing and inventory investment in Technology and Phones products.
 - Implement sales improvement strategies for underperforming regions and sales teams.
-- Develop promotional campaigns during low-performing months to stabilize revenue.
+- Develop promotional campaigns during low-performing periods to stabilize revenue.
 - Strengthen customer engagement strategies for the Consumer segment.
+- Insights from customer demographics should be used to design personalized marketing strategies that better target dominant customer groups.
 
 ## Conclusion
 
-This Power BI project successfully demonstrates how data visualization and business intelligence tools can be used to analyze sales data effectively. The Superstore Sales Analysis provides clear insights into revenue patterns, customer behavior, and operational performance. The findings can support management in making informed decisions to enhance profitability, optimize sales strategies, and sustain long-term business growth.
+This Power BI project successfully demonstrates how data visualization and business intelligence tools can be used to analyze sales data effectively. The Superstore Sales Analysis provides clear insights into revenue patterns, customer behavior and operational performance. The findings can support management in making informed decisions to enhance profitability, optimize sales strategies and sustain long-term business growth.
 
 
